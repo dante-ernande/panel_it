@@ -6,8 +6,6 @@ Uma interface gráfica (GUI) moderna, limpa e eficiente inspirada no estilo *Met
 
 ![Demonstração do Painel](./painel.png)
 
-*Nota: Certifique-se de que o caminho da imagem acima corresponde ao nome real do arquivo de screenshot no seu repositório.*
-
 ---
 
 ## 🚀 Recursos
